@@ -1,2 +1,0 @@
-# practicepythonorg
-Beginner Python exercises
